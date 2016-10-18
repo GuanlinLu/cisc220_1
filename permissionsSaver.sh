@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#Student id:10199220 Name:Guanlin Lu
 #first get all the files in the dir and subdir
 var=$(find ./ -type f | grep -v $0)
 
