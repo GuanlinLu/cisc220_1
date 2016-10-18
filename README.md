@@ -2,5 +2,5 @@
 #Studendt id:10199220 
 #Name:Guanlin Lu
 #Due date:2016-10-7
-This is for the assignment1 
-This is [my name]
+Assignment1 
+
