@@ -8,7 +8,7 @@ while ((i<3))
 do
     j=0
     t=""
-    while((j<=5))
+    while((j<=42))
     do
         if ((j<line[$i]))
         then
@@ -27,7 +27,7 @@ do
     ((i=i+1))
 done
 read c
-while ((line[0]<5 && line[1]<5 && line[2]<5))
+while ((line[0]<42 && line[1]<42 && line[2]<42))
 do
     i=0
     clear
@@ -39,7 +39,7 @@ do
     do
         j=0
         t=""
-        while((j<=5))
+        while((j<=42))
         do
             if ((j<line[$i]))
             then
